@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/Transcend/static/js/runtime~main.7f5a724a.js"
   },
   {
-    "revision": "7c41f49b4015d02237c1",
-    "url": "/Transcend/static/js/main.7c41f49b.chunk.js"
+    "revision": "a995a336cf4e9b276ecd",
+    "url": "/Transcend/static/js/main.a995a336.chunk.js"
   },
   {
     "revision": "d156982f28d4b7636d43",
     "url": "/Transcend/static/js/1.d156982f.chunk.js"
   },
   {
-    "revision": "7c41f49b4015d02237c1",
-    "url": "/Transcend/static/css/main.0356b93c.chunk.css"
+    "revision": "a995a336cf4e9b276ecd",
+    "url": "/Transcend/static/css/main.a261fcd1.chunk.css"
   },
   {
-    "revision": "bbcc5c0bcd518de99e3971670d5c4eae",
+    "revision": "6e254b00de7f0b9227682d0b8a24febe",
     "url": "/Transcend/index.html"
   }
 ];
