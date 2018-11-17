@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "87e0fcc032590a320c36c5caaf642e72",
-    "url": "/Transcend/static/media/transcend_title.87e0fcc0.svg"
+    "revision": "2c8b3cd109ddc552a4d5b436d242325a",
+    "url": "/Transcend/static/media/transcend_title.2c8b3cd1.svg"
   },
   {
     "revision": "f1cab7eabde5e78612e7ebc67a80d247",
@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/Transcend/static/js/runtime~main.7f5a724a.js"
   },
   {
-    "revision": "73c2d0d7379fa25ac5ab",
-    "url": "/Transcend/static/js/main.73c2d0d7.chunk.js"
+    "revision": "5a3e22158810deb16c50",
+    "url": "/Transcend/static/js/main.5a3e2215.chunk.js"
   },
   {
     "revision": "d156982f28d4b7636d43",
     "url": "/Transcend/static/js/1.d156982f.chunk.js"
   },
   {
-    "revision": "73c2d0d7379fa25ac5ab",
-    "url": "/Transcend/static/css/main.e602419d.chunk.css"
+    "revision": "5a3e22158810deb16c50",
+    "url": "/Transcend/static/css/main.a261fcd1.chunk.css"
   },
   {
-    "revision": "ee3f5a94cf82ceae2798c89da0981bad",
+    "revision": "f230fc11023b9fe1eeb20f0cc107b51a",
     "url": "/Transcend/index.html"
   }
 ];
