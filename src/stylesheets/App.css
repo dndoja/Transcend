@@ -1,0 +1,108 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 8vh;
+  margin-bottom: 8vh;
+  animation-delay: 1s;
+  animation: Logo-fly-up 3s;
+}
+
+.App-logo-wide {
+  height: 8vh;
+  animation: Fade-in 5s;
+}
+
+.App-header {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #0F0929;
+  /*
+  animation: Header-appear 0.5s cubic-bezier(.95,.01,1,.65);
+  */
+}
+
+.Particles-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: radial-gradient(#0F0929e8 1%,#0F0929 40%);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  padding-bottom: 6vmin;
+}
+
+.Particles {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  z-index: -1;
+}
+
+.Down-arrow-container{
+  align-self: flex-end;
+  margin-bottom: 6vmin;
+  animation: Fade-in 8s;
+}
+
+.Down-arrow{
+  height: 6vmin;
+  animation: Down-arrow-bounce infinite 1.5s linear;
+}
+.Sub-header {
+  font-family: "Open Sans Light";
+  font-weight: 300;
+  color:white;
+  animation: Fade-in 5s;
+}
+
+@keyframes Down-arrow-bounce {
+  0% {
+    transform: translateY(0);
+  }
+  80% {
+    transform: translateY(2vmin);
+  }
+  100%{
+    transform: translateY(0);
+  }
+}
+
+@keyframes Logo-fly-up {
+  0% {
+    transform: translateY(16vh) scale(0.5,0.5);
+  }
+
+  25% {
+    transform: translateY(16vh) scale(2,2);
+  }
+
+  50% {
+    transform: translateY(16vh) scale(2,2);
+  }
+
+  100% {
+    transform: translateY(0) scale(1,1);
+  }
+}
+
+@keyframes Fade-in {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 0;
+  }
+
+  100%{
+    opacity: 100%;
+  }
+}

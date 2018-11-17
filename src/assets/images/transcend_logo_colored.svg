@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 84.342 89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-0.401" y1="-0.401" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c967ee"/>
+      <stop offset="1" stop-color="#fbddfb"/>
+    </linearGradient>
+  </defs>
+  <g id="Transcend_Logo" data-name="Transcend Logo" transform="translate(-3.6 -2.9)">
+    <g id="XMLID_17_" transform="translate(64.755 59.784)">
+      <image id="XMLID_79_" width="17.804" height="17.804" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAABWCAYAAABVVmH3AAAACXBIWXMAAAsSAAALEgHS3X78AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMFJREFUeNrs2DEOgCAQAEGJ/3+zUllbaMLq7AvIFHDHvumVdgRgwQosWLACCxaswIIFK7BgwQosWLACCxaswIIFK7BgwQosWLACCxaswIIFqxuN1Q94zK7DzsA+jFrDHSXUEu6ooVZws7Cr46ZhV8ZN3rEF3NxUAPbnD1liJiyOXplNprYsZGDL6+1Wvxb0g3wbggUrsGDBCixYsAILFqzAggUrsGDBCixYsAILFqzAggUrsGDBCixYsAIL9mOdAgwAc/s04SLJD5AAAAAASUVORK5CYII="/>
+    </g>
+    <g id="XMLID_2_" transform="translate(3.6 2.9)">
+      <rect id="XMLID_48_" class="cls-1" width="18.301" height="18.301" transform="translate(42.072 21.712) rotate(45)"/>
+      <path id="XMLID_49_" class="cls-1" d="M176.541,24.534,165.941,2.9,155.3,24.617l10.662-10.662Z" transform="translate(-123.894 -2.9)"/>
+      <path id="XMLID_55_" class="cls-1" d="M270.168,243.755,245.987,194.4,233.4,206.987Z" transform="translate(-185.826 -154.755)"/>
+      <path id="XMLID_56_" class="cls-1" d="M40.016,206.684,27.553,194.2,3.6,243.1Z" transform="translate(-3.6 -154.596)"/>
+    </g>
+  </g>
+</svg>
