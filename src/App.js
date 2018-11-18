@@ -11,6 +11,7 @@ import Card from './components/Card'
 import MobileBlueprint from './assets/images/blueprints/MobileBlueprint.png'
 import WebBlueprint from './assets/images/blueprints/WebsiteBlueprint.png'
 import UxBlueprint from './assets/images/blueprints/UxBlueprint.png'
+import {isMobile} from 'react-device-detect'
 
 class App extends Component {
 
@@ -29,7 +30,7 @@ class App extends Component {
     render() {
         let desc = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod ex non elit sollicitudin, in efficitur sapien tincidunt. Aenean in metus semper, ornare purus at, interdum velit. Suspendisse porttitor diam odio, vehicula viverra risus bibendum eu. Donec ut erat nec turpis varius rutrum eu eget orci. ';
         document.body.style.backgroundColor = '#0F0929';
-
+        let arrowStyle = isMobile ? "Down-arrow-container-mobile" : "Down-arrow-container";
         return (
             //<ColoredScrollbars autoHeight autoHeightMin="100%" autoHeightMax="100%">
             <div className="App" >
@@ -41,7 +42,7 @@ class App extends Component {
                     <img src={logo} className="App-logo" alt="logo"/>
                     <img src={title} className="App-logo-wide" alt="title" />
                     <p className={"Sub-header"}> Cutting edge software development</p>
-                    <div className={"Down-arrow-container"} onClick={this.scrollToElement} >
+                    <div className={arrowStyle} onClick={this.scrollToElement} >
                         <img src={downArrow} className={"Down-arrow"} alt={"downArrow"} />
                     </div>
                 </div>

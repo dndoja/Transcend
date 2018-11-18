@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  height: 100%;
 }
 
 .Hero-screen-padding{
@@ -61,7 +62,14 @@
 
 .Down-arrow-container{
   align-self: center;
-  padding-bottom: 6vmin;
+  margin-bottom: 6vmin;
+  animation: Fade-in 8s;
+  cursor: pointer;
+}
+
+.Down-arrow-container-mobile{
+  align-self: center;
+  margin-bottom: calc(6vmin + 5vh);
   animation: Fade-in 8s;
   cursor: pointer;
 }
