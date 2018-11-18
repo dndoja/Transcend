@@ -1,0 +1,32 @@
+.Card-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 20vmax;
+    min-width: 215px;
+    margin: 5vmin 2.5vmin;
+}
+
+.Card-image{
+    width: 100%;
+}
+
+.Card-header{
+    text-align: left;
+    width: 100%;
+    min-font-size: 25px;
+    font-size: 2.5vh;
+    letter-spacing: 0.3vh;
+    font-family: "Open Sans", serif;
+    color: #FBDDFB;
+}
+
+.Card-description{
+    margin: 0;
+    text-align: left;
+    width: 100%;
+    font-size: 1.5vh;
+    font-family: "Open Sans Light", serif;
+    color: rgba(255,255,255,0.7);
+}
