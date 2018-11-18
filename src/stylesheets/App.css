@@ -69,7 +69,7 @@
 
 .Down-arrow-container-mobile{
   align-self: center;
-  margin-bottom: calc(6vmin + 5vh);
+  margin-bottom: calc(6vmin + 8vh);
   animation: Fade-in 8s;
   cursor: pointer;
 }
