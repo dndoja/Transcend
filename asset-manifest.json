@@ -1,7 +1,7 @@
 {
-  "main.css": "/Transcend/static/css/main.992106b9.chunk.css",
-  "main.js": "/Transcend/static/js/main.8374eeea.chunk.js",
-  "main.js.map": "/Transcend/static/js/main.8374eeea.chunk.js.map",
+  "main.css": "/Transcend/static/css/main.8079671f.chunk.css",
+  "main.js": "/Transcend/static/js/main.fc5fc15b.chunk.js",
+  "main.js.map": "/Transcend/static/js/main.fc5fc15b.chunk.js.map",
   "static/js/1.2a28122a.chunk.js": "/Transcend/static/js/1.2a28122a.chunk.js",
   "static/js/1.2a28122a.chunk.js.map": "/Transcend/static/js/1.2a28122a.chunk.js.map",
   "runtime~main.js": "/Transcend/static/js/runtime~main.7f5a724a.js",
@@ -12,8 +12,8 @@
   "static/media/WebsiteBlueprint.png": "/Transcend/static/media/WebsiteBlueprint.d09b5f3d.png",
   "static/media/UxBlueprint.png": "/Transcend/static/media/UxBlueprint.ccb5d077.png",
   "static/media/transcend_title.svg": "/Transcend/static/media/transcend_title.2c8b3cd1.svg",
-  "static/css/main.992106b9.chunk.css.map": "/Transcend/static/css/main.992106b9.chunk.css.map",
+  "static/css/main.8079671f.chunk.css.map": "/Transcend/static/css/main.8079671f.chunk.css.map",
   "index.html": "/Transcend/index.html",
-  "precache-manifest.73e0188864f11e50c4fc05d37ccc632a.js": "/Transcend/precache-manifest.73e0188864f11e50c4fc05d37ccc632a.js",
+  "precache-manifest.085a6456c8d46c60e8c9f2e139889622.js": "/Transcend/precache-manifest.085a6456c8d46c60e8c9f2e139889622.js",
   "service-worker.js": "/Transcend/service-worker.js"
 }
