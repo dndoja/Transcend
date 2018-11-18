@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.Hero-screen-padding{
+  flex: 1;
+}
+
 .App-logo {
   height: 8vmin;
   margin-bottom: 5vmin;
@@ -56,9 +60,10 @@
 }
 
 .Down-arrow-container{
-  align-self: flex-end;
+  align-self: center;
   padding-bottom: 6vmin;
   animation: Fade-in 8s;
+  cursor: pointer;
 }
 
 .Down-arrow{
@@ -71,6 +76,7 @@
   font-weight: 300;
   color:white;
   animation: Fade-in 7s;
+  -webkit-flex-grow: 1;
 }
 
 .Card-grid{
