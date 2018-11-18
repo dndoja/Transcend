@@ -15,9 +15,10 @@ import UxBlueprint from './assets/images/blueprints/UxBlueprint.png'
 class App extends Component {
   render() {
       let desc = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod ex non elit sollicitudin, in efficitur sapien tincidunt. Aenean in metus semper, ornare purus at, interdum velit. Suspendisse porttitor diam odio, vehicula viverra risus bibendum eu. Donec ut erat nec turpis varius rutrum eu eget orci. ';
+      document.body.style.backgroundColor = '#0F0929';
 
       return (
-        //<ColoredScrollbars autoHeight autoHeightMin="100%" autoHeightMax="100%">
+      //<ColoredScrollbars autoHeight autoHeightMin="100%" autoHeightMax="100%">
             <div className="App">
                     <div className={"Particles-container"}>
                         <Particles params={particlesConfig} className={"Particles"}/>
