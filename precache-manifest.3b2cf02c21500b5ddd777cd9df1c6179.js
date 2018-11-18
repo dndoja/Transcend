@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/Transcend/static/media/transcend_title.2c8b3cd1.svg"
   },
   {
-    "revision": "fc5fc15bfa76238a763a",
-    "url": "/Transcend/static/css/main.8079671f.chunk.css"
+    "revision": "4c9c217f4e3010805e26",
+    "url": "/Transcend/static/css/main.3c2f19b3.chunk.css"
   },
   {
-    "revision": "2a28122a8fd382d2fbb0",
-    "url": "/Transcend/static/js/1.2a28122a.chunk.js"
+    "revision": "d0bd941278f99d626f0a",
+    "url": "/Transcend/static/js/1.d0bd9412.chunk.js"
   },
   {
     "revision": "7f5a724a0c945753185c",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/Transcend/static/media/transcend_logo_colored.f1cab7ea.svg"
   },
   {
-    "revision": "fc5fc15bfa76238a763a",
-    "url": "/Transcend/static/js/main.fc5fc15b.chunk.js"
+    "revision": "4c9c217f4e3010805e26",
+    "url": "/Transcend/static/js/main.4c9c217f.chunk.js"
   },
   {
     "revision": "6a51bad80108ade2d566dfc9e99ebaf1",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Transcend/static/media/UxBlueprint.ccb5d077.png"
   },
   {
-    "revision": "444f7bc09a3ed4ded7bb604ed3d9c269",
+    "revision": "32784b9909e45c974e93c192c42f7935",
     "url": "/Transcend/index.html"
   }
 ];
