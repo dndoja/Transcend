@@ -1,0 +1,36 @@
+.Selector-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    padding-top: 8vh;
+}
+
+.Selector-item {
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+    text-align: center;
+    letter-spacing: 0.3vh;
+    cursor: pointer;
+    margin: 0;
+    font-size: calc(10px + 2vmin);
+    font-family: "Open Sans", serif;
+    color: #FBDDFB;
+}
+
+.Selector-item.unselected {
+    color: white;
+    opacity: 0.5;
+}
+
+.Selector-divider {
+    height: calc(10px + 4vmin);
+    margin-left: 1vw;
+    margin-right: 1vw;
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}

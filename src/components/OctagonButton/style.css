@@ -1,0 +1,33 @@
+.Octagon-button{
+    position:relative;
+    cursor: pointer;
+    background-position: center;
+    margin-top: 5vh;
+    margin-bottom: 1vh;
+}
+
+.Octagon-background{
+    fill:#FBDDFB;
+    width: 15vmax;
+    min-width: 215px;
+    height: 100%;
+    display: block;
+}
+
+.Text{
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+    left:0;
+    top: 25%;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+    font-size: 18px;
+    letter-spacing: 0.3vh;
+    font-family: "Open Sans", serif;
+    color: #FBDDFB;
+}

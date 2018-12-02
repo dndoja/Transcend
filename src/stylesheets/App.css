@@ -41,6 +41,18 @@
   background: linear-gradient(#0F0929,#27213E);
 }
 
+.Full-page-container-flat{
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  background: #27213e;
+}
+
 .Particles-container {
   display: flex;
   flex-direction: row;
