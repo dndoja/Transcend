@@ -13,6 +13,7 @@ import UxBlueprint from './assets/images/blueprints/UxBlueprint.png'
 import {isMobile} from 'react-device-detect'
 import {OctagonButton} from './components/OctagonButton'
 import {SelectorLayout} from './components/SelectorLayout'
+import {HorizontalContainer} from './components/HorizontalContainer'
 
 class App extends Component {
 
@@ -64,6 +65,9 @@ class App extends Component {
                 </div>
                 <div className="Full-page-container-flat" ref={this.ref2}>
                     <SelectorLayout/>
+                    <div style={{flex:1}}/>
+                    <HorizontalContainer/>
+                    <div style={{flex:1}}/>
                 </div>
             </div>
         );
